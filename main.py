@@ -1,5 +1,4 @@
 #Created by Cody Willard on 3/21/20.
-#Copyright © 2020 Cody Willard. All rights reserved.
 
 
 import tkinter as tkr
